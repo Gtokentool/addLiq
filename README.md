@@ -2,12 +2,13 @@
 薄饼V2受攻击导致加不了池子，可以通过这个方法加池子
 
 
+
 可视化操作界面：https://ggg.dog/tool，选择添加池子，按照提示操作一下即可
 
 <img width="906" alt="image" src="https://github.com/yagong321/addLiq/assets/119032838/7e840fe1-0e0c-4298-b772-d2cef807fba3">
 
 
-
+币安正式网合约地址：0xfd22A8139562FdE31A675E2464B95077A1A9852B
 如果需要合约执行恢复，则按以下步骤操作：
 首先调用getNeedNum
 第一个参数就是传价格，第三个参数传的是一个地址数组，地址数组中包含：
